@@ -1,0 +1,6 @@
+C:\main_for_work\C#\Projects\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\main_for_work\C#\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\main_for_work\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\main_for_work\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\main_for_work\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\main_for_work\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
